@@ -18,9 +18,9 @@ Dibangun dengan Laravel dan mengimplementasikan algoritma **Stream Cipher**.
 - [x] ChaCha20
 - [x] Salsa20
 - [x] A5/1
-- [ ] [Algoritma 5]
-- [ ] [Algoritma 6]
-- [ ] [Algoritma 7]
+- [x] Trivium 
+- [x] Grain 
+- [x] Spritz
 
 ## Kebutuhan Sistem
 
