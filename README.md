@@ -32,7 +32,7 @@ Dibangun dengan Laravel dan mengimplementasikan algoritma **Stream Cipher**.
 
 1. Clone repository
 
-        git clone 
+        git clone https://github.com/cutintanariestia03-oss/Cryptolab
         cd Cryptolab
 
 2. Install dependensi
